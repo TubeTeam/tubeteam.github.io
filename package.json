@@ -2,7 +2,7 @@
   "name": "tubeteam.github.io",
   "description": "TubeTeam Official Website",
   "version": "1.0.0",
-  "license": "MIT",
+  "license": "ARR",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",
